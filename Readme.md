@@ -12,7 +12,7 @@
 ## Setup
 
 ```bash
-git clone <repo-url>
+git clone https://github.com/tejeshwar-01/o2h-tasks-repository
 cd frontend-task
 open index.html
 ```
